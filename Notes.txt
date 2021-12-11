@@ -1,6 +1,5 @@
 *****************************
-Introduction
-*****************************
+
 - Python is an easy to learn, powerful programming language.
 - It has efficient high-level data structures and a simple but effective approach to object-oriented programming.
 - Python’s elegant syntax and dynamic typing, together with its interpreted nature, make it an ideal language for scripting and rapid application development in many areas on most platforms.
@@ -13,9 +12,7 @@ Introduction
 - Python is Object-Oriented − Python supports Object-Oriented style or technique of programming that encapsulates code within objects.
 
 - Python is a Beginner's Language − Python is a great language for the beginner-level programmers and supports the development of a wide range of applications from simple text processing to WWW browsers to games.
-****************************
-Characteristics of Python
-****************************
+- Characteristics of Python
 Following are important characteristics of Python Programming −
 
 It supports functional and structured programming methods as well as OOP.
@@ -38,3 +35,11 @@ Python is derived from many other languages, including ABC, Modula-3, C, C++, Al
 Python is copyrighted. Like Perl, Python source code is now available under the GNU General Public License (GPL).
 
 Python is now maintained by a core development team at the institute, although Guido van Rossum still holds a vital role in directing its progress.
+
+
+*******************************
+What is the Python interpreter?
+*******************************
+The Python interpreter is a virtual machine, meaning that it is software that emulates a physical computer. ... The Python interpreter is a bytecode interpreter: its input is instruction sets called bytecode. When you write Python, the lexer, parser, and compiler generate code objects for the interpreter to operate on.
+
+
